@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519585590 source:f:\c++\first_windows_gui_class\main.cpp
+	<iostream>
+	<deque>
+	<list>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<sstream>
+	<string>
+
